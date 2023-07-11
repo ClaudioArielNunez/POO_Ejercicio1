@@ -1,4 +1,4 @@
-## POO_Ejercicio1
+## POO_Ejercicio2
 ### Conceptos aplicados:
 - Clases y Objetos. Estado. Identidad. Comportamiento. Encapsulamiento. Modificadores de acceso.
 Métodos getter/setter. Palabra this. Constructores. Método toString. Miembros estáticos.
